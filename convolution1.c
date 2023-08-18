@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include<time.h>
 
-
+//comments
 struct matrix {
     int o_val;
     int n_val;
